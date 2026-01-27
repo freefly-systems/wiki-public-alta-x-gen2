@@ -1,8 +1,10 @@
 # Table of contents
 
+* [Alta X Gen2](README.md)
+
 ## PILOT'S OPERATING HANDBOOK
 
-* [Getting Started](README.md)
+* [Getting Started](<README (1).md>)
 * [System Overview](pilots-operating-handbook/system-overview.md)
 * [Flight Part 1 - Modes](pilots-operating-handbook/flight-part-1-modes.md)
 * [Flight Part 2 - Operation](pilots-operating-handbook/flight-part-2-operation.md)
