@@ -53,7 +53,6 @@
 
 * Alta X Gen2 supports the same payloads as Alta X Gen1, in addition to the following Smart Dovetail payloads. We continue to test new payloads and expand the list of supported payloads.&#x20;
 * LR1 Payload
-* Wiris Pro Payload
 * Gremsy Vio Payload
 * Movi Pro / Carbon
 * Flux Payload integration is in the works
