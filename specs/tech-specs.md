@@ -41,7 +41,7 @@ Battery Tray Dimensions
 | Maximum Payload              | 15.1 kg    |
 | Empty Weight                 | 11.2 kg \* |
 
-\*(0.13 kg heavier than Alta X Gen1 when similarly equipped with payload mounting rails, 5v & 24v regulators, and FPV camera)
+\*(0.13 kg heavier than Alta X Gen1 when similarly equipped with payload mounting rails, 12v & 24v regulators, and FPV camera)
 
 ## Environmental <a href="#environmental" id="environmental"></a>
 
