@@ -17,6 +17,12 @@
 
 {% file src="../.gitbook/assets/445-00238 Chassis Lower Hole Pattern Guide-RevA.pdf" %}
 
+### Mounting Interfaces - Chassis Top
+
+<figure><img src="../.gitbook/assets/445-00242 Chassis Upper Hole Pattern Guide-RevA.JPG" alt=""><figcaption></figcaption></figure>
+
+{% file src="../.gitbook/assets/445-00242 Chassis Upper Hole Pattern Guide-RevA.pdf" %}
+
 ### Electronics Bay Door
 
 Electronics bay access panel.  Start with this model and customize as needed. &#x20;
