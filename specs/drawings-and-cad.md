@@ -42,3 +42,11 @@ Location of four mounting posts in electronics bay and a sample part. &#x20;
 <figure><img src="../.gitbook/assets/Electronics bay mount locations.JPG" alt=""><figcaption></figcaption></figure>
 
 {% file src="../.gitbook/assets/430-00494 Mount Compute-Rev01.step" %}
+
+### Chassis CAD Files
+
+<figure><img src="../.gitbook/assets/1.jpg" alt=""><figcaption></figcaption></figure>
+
+Parasolid format is recommended.
+
+[Alta X Gen2 Chassis STEP](https://drive.google.com/file/d/1a5O9uxuC2gIbU3ASWuEZi3WIqzA3-_oC/view?usp=drive_link) / [Alta X Gen2 Chassis Parasolid](https://drive.google.com/file/d/1hoIQWwE8XIOoxELjjjahPo31PFKZMx0d/view?usp=drive_link)
