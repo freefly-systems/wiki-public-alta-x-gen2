@@ -82,3 +82,12 @@ To keep batteries warm, charge them in a heated environment and store them in an
 Alta X Gen2 is designed to withstand light rain ([IP43 rated](../specs/tech-specs.md#environmental)). Ensure the IO panel, voltage regulator, and USB covers are installed when flying in dusty or wet conditions.
 
 When flying in rain, we have seen some instances where water ingresses to the battery through the balance lead port. This may cause the battery’s BMS to report incorrect information. To prevent this, we include stickers to cover the balance port on the batteries. See [here](../maintenance/batteries-and-charging.md#installing-the-battery-balance-port-stickers) for instructions on installing them.
+
+## Travel and Shipping
+
+Alta X case outside dimensions: 33.75 x 28.5 x 16.25 inches
+
+Alta X loaded case weight: 77 lb / 35 kg
+
+* Payload mount rails and smart dovetail fit in the case installed on Alta X Gen2.
+* Cinema isolator does not fit in the Alta X Gen2 case.
