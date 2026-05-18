@@ -14,7 +14,8 @@
 
 ## MAINTENANCE
 
-* [Software Updates](maintenance/software-updates.md)
+* [Software Updates](maintenance/software-updates/README.md)
+  * [Updating Firmware](maintenance/software-updates/updating-firmware.md)
 * [Standard Maintenance Procedures](maintenance/standard-maintenance-procedures.md)
 * [Troubleshooting](maintenance/troubleshooting.md)
 * [Network and Connectivity](maintenance/network-and-connectivity.md)
