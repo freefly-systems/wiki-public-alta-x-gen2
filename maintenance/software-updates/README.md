@@ -10,6 +10,10 @@
 
 <summary><strong>Alta X Gen2 v2.2.6</strong></summary>
 
+<a href="https://freeflyeng.s3.us-west-2.amazonaws.com/_SoftwareReleases/skynode-altaxgen2-v2.2.6-prod.auterionos" class="button primary">DOWNLOAD v2.2.6</a>
+
+
+
 * **Summary**: New Feature Release. Brings new Boson thermal presets, LR1 and A7R photography improvements, Gremsy VIO plug-and-play, RTK/NTRIP from Pilot Pro, and the rewritten Doodle channel scan.
 * **Release Date**: April 2026
 * **Versions in this package**:
@@ -19,11 +23,6 @@
   * Gimbal Firmware: v2.3.0
   * Freefly Updater: v3.1.1
   * LR1 Camera Firmware (recommended): v3.0
-
-{% file src="https://freeflyeng.s3.us-west-2.amazonaws.com/_SoftwareReleases/skynode-altaxgen2-v2.2.6-prod.auterionos" %}
-Download v2.2.6 Firmware
-{% endfile %}
-
 * **Notes** (Going from Alta X Gen2 v2.1.x to v2.2.6)
   * **Read more about the highlights** [**here**](https://docs.freeflysystems.com/astro/maintenance/software-release-notes/astro-software-v2.2-whats-new)**.** Astro and Alta X Gen2 share the same v2.2 software release, so the same notes apply.
   * **Flight**
