@@ -6,7 +6,7 @@
 You can determine if Alta X Gen2 needs an update by following steps 2-4 below. The current firmware version is available on the [Software Updates](./) page.
 {% endhint %}
 
-1. Download the firmware from the [Current Firmware Version](./#current-firmware-version) section of the Software Updates page, or from [the Auterion Suite](https://suite.auterion.com/downloads/firmware).
+1. Download the firmware from the [Current Firmware Version](./#current-firmware-version) section of the Software Updates page.
 2. Connect Alta X Gen2 to your computer with a USB cable.
 3. Power on aircraft **with one battery through the fused cable** and wait about 15 seconds for aircraft to fully boot.
 4. Using a browser such as Chrome or Safari, open the aircraft's info/update page at [http://10.41.1.1](http://10.41.1.1/) (internet connection is not needed).
@@ -26,7 +26,7 @@ If the aircraft gives an error message, power cycle the aircraft and try again.
 1. Update the Pilot Pro App to v2.7 or later.
 2. Connect Pilot Pro to your Alta X Gen2.
 3. Tap the **Fix Me** button in Pilot Pro, which will apply the _FW Updater Fix_. This is found in:\
-   &#x20;`App Menu > Vehicle Status Page`&#x20;
+   `App Menu > Vehicle Status Page`
 4. If you have a Blue/NDAA Alta X Gen2, you will need to disable Admin Protection on the 10.41.1.1/settings page before the _FW Updater Fix_ can apply. Admin Protection can be re-enabled after the firmware update is successful.
 5. Retry the Alta X Gen2 firmware update once the _FW Updater Fix_ has been applied.
 {% endhint %}
