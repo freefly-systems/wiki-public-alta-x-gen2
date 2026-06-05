@@ -4,26 +4,22 @@
 
 If you have two batteries connected to Alta X Gen2 but are only seeing one battery in AMC:
 
-* Check that both batteries are on. If one of the batteries doesn't have any LEDs lit up, try pressing the button on the battery to wake it.&#x20;
+* Check that both batteries are on. If one of the batteries doesn't have any LEDs lit up, try pressing the button on the battery to wake it.
 * Verify that you are in smart battery mode. See the [Battery page](batteries-and-charging.md#switching-battery-modes) for instructions on changing battery mode.
   * Dual battery display in AMC is only supported when smart battery mode is enabled.
-
-
 
 ### LTE not connecting
 
 If you’re having trouble with LTE connectivity, here’s a few things to check:
 
-* With Alta X Gen2 powered on and connected to AMC via Pilot Pro or a computer, check the LTE status in the dropdown.&#x20;
+* With Alta X Gen2 powered on and connected to AMC via Pilot Pro or a computer, check the LTE status in the dropdown.
 * Ensure you’ve installed the SIM card properly.
 * Check the APN and roaming settings under the Vehicle Overview -> Connectivity -> LTE menu in AMC.
-* If you’re in an area with spotty coverage, try moving outside and away from large buildings.&#x20;
-
-
+* If you’re in an area with spotty coverage, try moving outside and away from large buildings.
 
 ### WiFi not connecting
 
-* With Alta X Gen2 powered on and connected to AMC via Pilot Pro or a computer, check the WiFi status in the vehicle connectivity -> Connectivity -> Wi-Fi menu.&#x20;
+* With Alta X Gen2 powered on and connected to AMC via Pilot Pro or a computer, check the WiFi status in the vehicle connectivity -> Connectivity -> Wi-Fi menu.
 * Verify in the Wi-Fi tab that the button is on.
 * Press the scan icon to search for network.
 * Try moving Alta X Gen2 closer to the router or access point.
@@ -32,8 +28,6 @@ If you’re having trouble with LTE connectivity, here’s a few things to check
 {% hint style="info" %}
 5.8GHz WiFi networks have better performance due to less radio interference from the onboard RF
 {% endhint %}
-
-
 
 ### Pilot Pro not connecting (rebind controller)
 
@@ -44,14 +38,12 @@ If you’re having trouble with LTE connectivity, here’s a few things to check
 * Turn on Pilot Pro.
 *   Wait 30 seconds for the drone to power on, then press the pairing button on the IO panel five times quickly. (The IO panel is located on the bottom side of the aircraft near the nose).
 
-    <figure><img src="../.gitbook/assets/image (14).png" alt="" width="563"><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (13).png" alt="" width="563"><figcaption></figcaption></figure>
 * On the Pilot Pro side, locate the pairing button on the Herelink radio. Using tweezers, press and hold the Herelink Air Unit's "Pair/Reset" button until LED blinks (hold approximately 3 seconds).
 
 <figure><img src="../.gitbook/assets/image (22).png" alt="" width="563"><figcaption></figcaption></figure>
 
 * Wait for Pilot Pro and Alta X Gen2 to pair. Once paired, Pilot Pro's power button LED should turn green.
-
-
 
 **For Alta X Gen2 with Doodle Labs radio:**
 
@@ -66,7 +58,7 @@ If you’re having trouble with LTE connectivity, here’s a few things to check
 *   Locate and press the binding button on the IO panel five times quickly. (The IO panel is located on the bottom side of the aircraft near the nose).
 
     <figure><img src="../.gitbook/assets/image (13).png" alt="" width="563"><figcaption></figcaption></figure>
-* Wait for 30 seconds for the radio to go into pairing mode, then press “Scan” on Pilot Pro App.&#x20;
+* Wait for 30 seconds for the radio to go into pairing mode, then press “Scan” on Pilot Pro App.
 * From the list of results, find the one that matches Alta X Gen2's serial number. Then press pair.
 *   Wait 60 seconds for process to complete.
 

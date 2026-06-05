@@ -18,11 +18,7 @@ Manual Mode may be necessary to react to emergency situations. Pilots should be 
 Always neutralize the control input sticks on the pilot handset when switching between control modes to prevent unexpected aircraft movement.
 {% endhint %}
 
-
-
 ***
-
-
 
 ## Pilot-Controlled Modes
 
@@ -38,8 +34,6 @@ In Position Mode, when sticks are centered, the aircraft maintains its position 
 * Throttle stick up/down → commands vertical speed
 * Throttle stick left/right → commands yaw rate
 
-
-
 {% hint style="info" %}
 Position Mode requires a strong GPS signal. If signal deteriorates (near buildings, under tree cover), the aircraft will automatically revert to Altitude Mode.
 {% endhint %}
@@ -53,8 +47,6 @@ Flight in areas of degraded GPS is not recommended. Automatic reversion to Altit
 <figure><img src="../.gitbook/assets/Pilot Pro Altitude Button.png" alt=""><figcaption><p>Altitude Mode Button on Pilot Pro</p></figcaption></figure>
 
 Similar to Position Mode, but the aircraft only holds altitude—not lateral position. Alta X Gen2 will drift with the wind and will not hold a fixed point without pilot input.
-
-
 
 {% hint style="info" %}
 The aircraft holds altitude above Mean Sea Level (MSL) by default. It is not aware of terrain height changes without additional configuration.
@@ -79,7 +71,7 @@ The hover throttle setting controls thrust produced when the throttle stick is c
 * Default: \[TBD]% will hover with no payload
 * Approximately \[TBD]% will hover with \[TBD] grams of payload
 
-Adjust hover throttle setting in AMC:&#x20;
+Adjust hover throttle setting in AMC:
 
 * Switch to Advanced Mode by repeatedly tapping on the AMC icon <img src="https://freefly.gitbook.io/astro-public/~gitbook/image?url=https%3A%2F%2F2177404587-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F8dwrGJhxGd9cIvsStziq%252Fuploads%252FcIXsEaCuTON0v3R1b0cb%252FAMC_icon.jpg%3Falt%3Dmedia%26token%3De5f082e7-eae0-4bf7-9326-fdca0ee01eef&#x26;width=68&#x26;dpr=4&#x26;quality=100&#x26;sign=179222a7&#x26;sv=2" alt="" data-size="line">in the top-left-hand corner of the app.
 * Go to Vehicle Setup → Tuning → Hover Throttle<br>
@@ -96,11 +88,7 @@ The gimbal's dial (left) is always active regardless of mode
 {% endtab %}
 {% endtabs %}
 
-
-
 ***
-
-
 
 ## Autonomous Modes
 
@@ -114,14 +102,10 @@ Return Mode commands Alta X Gen2 to:
 2. Fly back to the Home Point in a straight line
 3. Land
 
-
-
 **Key settings:**
 
 * **Return Altitude:** Set it in AMC → Vehicle Setup → Safety. If already above Return Altitude, aircraft maintains current altitude.
 * **Home Point:** Automatically set to GPS coordinates where aircraft was armed. Resets every arm.
-
-
 
 By default, Return Mode is activated automatically by some Failsafes.
 
@@ -133,9 +117,7 @@ Before every flight, think through the path the aircraft will take if Return Mod
 You can exit Return Mode by pressing another flight mode button.
 {% endhint %}
 
-
-
-### **Return behavior based on position:**
+#### **Return behavior based on position:**
 
 In most cases, RTL mode will travel to the predetermined RTL altitude, travel over the home point, and automatically descend to land. However, if the aircraft is close to the home point, the behavior will be slightly different in order to save time and reduce the amount of distance Astro will need to move.
 
@@ -148,8 +130,6 @@ In most cases, RTL mode will travel to the predetermined RTL altitude, travel ov
 | <20m altitude AND <20m distance   | Climb to 20m, move over home, land             |
 | 20-35m altitude AND <20m distance | Maintain altitude, move over home, land        |
 | >35m altitude OR >20m distance    | Climb to Return Altitude, move over home, land |
-
-&#x20;
 {% endtab %}
 
 {% tab title="Takeoff" %}
@@ -163,11 +143,11 @@ Takeoff Mode requires a GPS lock.
 {% endtab %}
 
 {% tab title="Landing" %}
-### Landing Mode
+#### Landing Mode
 
 Landing Mode descends and lands directly below current position. Aircraft disarms after touchdown.
 
-Engage via AMC Fly view button (hold to confirm).&#x20;
+Engage via AMC Fly view button (hold to confirm).
 
 Also used as the last command in missions or triggered by some failsafes.
 
@@ -200,8 +180,3 @@ Aircraft must have GPS lock before takeoff to start a mission. If armed without 
 {% endhint %}
 {% endtab %}
 {% endtabs %}
-
-
-
-
-

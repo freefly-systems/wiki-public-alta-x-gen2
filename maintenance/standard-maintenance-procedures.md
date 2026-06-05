@@ -33,7 +33,7 @@ Note: it is key to keep both your aircraft and controller firmware up to date. R
 
 * Perform a full visual inspection of the drone, controller, batteries, and payloads before each flight.
 * Look for any missing screws or hardware, any new damage or cracks, or anything that looks out of the ordinary or has changed.
-* Check that motors spin freely and with no grinding/interference.&#x20;
+* Check that motors spin freely and with no grinding/interference.
 * Check that the propellers move freely and that the ActiveBlade dampers are in place.
 * Developing this mental model of your drone is key to catching issues before they become a possible in-flight emergency.
 
@@ -67,15 +67,13 @@ The longevity and health of the battery is fully dependent on how you treat and 
 
 ### Every 250 Flight Hours
 
-**Inspect all fastener locations to verify fasteners are present, not damaged, and are not loose.**&#x20;
+**Inspect all fastener locations to verify fasteners are present, not damaged, and are not loose.**
 
 Check the tightness of the following fasteners to verify no loose fasteners or use a torque stripe/seal to ensure bolts have not moved.
 
 To check fasteners, apply a slight tightening torque (Clockwise direction) to each fastener on the chassis using the supplied hex drivers. The fasteners should not slip. Do not try to tighten the fastener, only check if it is loose
 
 If a fastener does slip, tighten it using the methods described in the "Fastener Installation" section below. Do not apply additional thread locking compound unless the fastener has repeatedly come loose.
-
-
 
 #### Items that need tightness verified (ensure they have not worked loose):
 
@@ -89,7 +87,7 @@ If a fastener does slip, tighten it using the methods described in the "Fastener
 * Landing gear bolts
 * Any payload fasteners
 
-### PM4: Every 750 Flight Hours&#x20;
+### PM4: Every 750 Flight Hours
 
 * Freefly recommends to perform this maintenance every year even if the aircraft has not hit 750 flight hours, especially if the aircraft has missed other PM intervals or if the drone operates in harsh or abusive conditions
 * Send Alta X Gen2 in for a Freefly Service Inspection and Overhaul
@@ -118,12 +116,12 @@ First step is to evaluate if the problem can be fixed. Things that can be fixed 
 
 If you have a failure and cannot fix using our general guidelines or the spare parts provided in the kit or on the store, please reach out to support@freeflysystems.com or [submit a direct ticket](https://freeflysystems.com/contact) for any questions, specific replacement needs or issues! We are here to help you get safely and quickly back into the air!
 
-If you need to purchase spare or replacement parts, please go to [store.freeflysystems.com](http://store.freeflysystems.com) to purchase our standard parts.&#x20;
+If you need to purchase spare or replacement parts, please go to [store.freeflysystems.com](http://store.freeflysystems.com) to purchase our standard parts.
 
 ### Fastener Installation
 
 {% hint style="warning" %}
-### **Use Of Threadlocker**
+#### **Use Of Threadlocker**
 
 Bolts and screws used in the daily use of this aircraft do not require threadlocking compound. This includes the screws holding on the battery trays, rails, and the landing gear parts.
 
@@ -145,12 +143,6 @@ Torque Values for Installed Fasteners in Newton-meters (Nm):
 Types of bolts:<br>
 
 <figure><img src="https://freefly.gitbook.io/freefly-public/~gitbook/image?url=https%3A%2F%2F3429200414-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-legacy-files%2Fo%2Fassets%252F-LaNHxABbg20hfA0zTDQ%252F-M-r-M7nw3jb3rL0Gm2D%252F-M-ud0XRplpYLKBoOO8d%252FFreefly%2520Bolt%2520Types%2520-%2520Google%2520Slides%2520-%2520Google%2520Chrome%25202020-02-12%252010.18.08.png%3Falt%3Dmedia%26token%3D92ff1aec-f6bf-47b9-bdde-4f1777bf02f6&#x26;width=768&#x26;dpr=3&#x26;quality=100&#x26;sign=669570eb&#x26;sv=2" alt=""><figcaption></figcaption></figure>
-
-
-
-
-
-
 
 \
 <br>

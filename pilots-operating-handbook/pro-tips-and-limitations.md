@@ -2,11 +2,7 @@
 
 It is possible to operate Alta X Gen2 close to the limits of performance by maintaining awareness of the performance envelope, how the aircraft behaves if the limits are exceeded, and best practices for operating in harsh environments.
 
-This page reflects the limitations of the most current version. As the Alta X Gen2 platform matures, limitations are likely to change.&#x20;
-
-
-
-
+This page reflects the limitations of the most current version. As the Alta X Gen2 platform matures, limitations are likely to change.
 
 ***
 
@@ -27,10 +23,9 @@ This is one of the simplest to miss and impact the range of the flight
 Both the Doodle and Herelink radio modules on Pilot Pro use two blade antennas that are omni directional. It is important to follow these basic guidelines:
 
 * Antennas should both point in the same direction.
-* Antennas should point towards ground or sky.
-* Minimize how much the antennas are getting blocked in close proximity. For instance, if you are using the Pilot Pro with the tablet in the open configuration, then pointing antennas towards ground instead of sky is usually better.
+* Antennas should point towards ground, so that the long side of the antennas are pointed the drone.
 
-<figure><img src="../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/antenna_positioning.png" alt="" width="375"><figcaption></figcaption></figure>
 
 ### Interferences <a href="#interferences" id="interferences"></a>
 
@@ -40,10 +35,6 @@ Range can be reduced by radio interference from other sources like WiFi networks
 
 * Alta X Gen2's Doodle radio configuration runs on dedicated peer to peer channels. In order to fly multiple Alta X Gen2 or Astro aircraft in the same airspace, make sure to scan channels and then set each Doodle to a different channel.
 * Alta X Gen2's Herelink radios are channel hopping by default. 4 aircraft can fly simultaneously in the same airspace in practice. If more aircraft are present, interference can cause loss of radio link and control.
-
-
-
-
 
 ***
 
@@ -55,7 +46,7 @@ Alta X Gen2 can operate between -20 and 50 C. Position mode and survey flying ar
 
 {% tabs %}
 {% tab title="Tips for operating in hot environments" %}
-At high temperatures, the limiting factor is battery temperatures. AMC will display a warning if the batteries become too hot. Heed the warnings! Alta X Gen2 operates normally in forward flight up to 15 m/s with a full payload.&#x20;
+At high temperatures, the limiting factor is battery temperatures. AMC will display a warning if the batteries become too hot. Heed the warnings! Alta X Gen2 operates normally in forward flight up to 15 m/s with a full payload.
 
 Cooling air is your friend. The system gets much more cooling air in forward flight than in a hover. Overheat errors may occur when hovering because there is less airflow, or when flying aggressively because heating increases with current.
 
@@ -71,7 +62,7 @@ These failsafes can be overridden by selecting another flight mode. The battery 
 
 If the batteries are 10 °C or warmer at the start of a flight, heating from discharge will keep them warm enough to fly.
 
-To keep batteries warm, charge them in a heated environment and store them in an insulated container (a cooler works well)​.&#x20;
+To keep batteries warm, charge them in a heated environment and store them in an insulated container (a cooler works well)​.
 
 **In rare cases propellers can experience icing, this occurs when ice begins to form on the tips and underside of the blades due to temperature and humidity. This will cause the props to become unbalanced, increasing drag and reducing lift. Flying with iced blades can be dangerous and is not advised.**
 {% endtab %}

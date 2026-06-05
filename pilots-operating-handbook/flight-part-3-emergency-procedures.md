@@ -8,11 +8,11 @@ Emergency situations are dynamic events, that will not often conform perfectly t
 
 The likelihood of an emergency can be reduced substantially through proper aircraft maintenance, the use of [checklists for normal procedures](flight-part-2-operation.md#flight-checklists), and careful pre-flight planning. The likelihood of a safe flight often depends on the diligence of the pilot, both before taking off and during operation.
 
-In general, if an emergency occurs, three basic actions can be applied to most situations:
+In general, if an emergency occurs, three basic actions can be applied to most situations:
 
 1. Maintain aircraft control — Small emergencies can quickly escalate if the pilot is distracted attempting to troubleshoot the problem. Always maintain visual contact with the aircraft during an emergency to reduce the likelihood of losing orientation.
 2. Analyze the situation — Once the aircraft is stabilized, assess the cause of the emergency.
-3. Take appropriate action — In many cases, the appropriate action will be to land the aircraft as soon as possible. Aircraft can be replaced.&#x20;
+3. Take appropriate action — In many cases, the appropriate action will be to land the aircraft as soon as possible. Aircraft can be replaced.
 
 ### Return Mode
 
@@ -20,11 +20,7 @@ Do not be over-reliant on [Return Mode](flight-part-3-emergency-procedures.md#re
 
 By default, stick movements do not interrupt Return Mode. Press a flight mode button to exit Return Mode.
 
-
-
 ***
-
-
 
 ## Emergency Checklists
 
@@ -32,7 +28,7 @@ The flight [checklists](flight-part-2-operation.md#flight-checklists) contain co
 
 {% tabs %}
 {% tab title="Orientation Loss" %}
-### Loss of Orientation
+#### Loss of Orientation
 
 If orientation is lost, neutralize inputs and activate position mode. Then work to identify the front of the aircraft.
 
@@ -44,9 +40,9 @@ Resume flying or land as necessary.
 {% endtab %}
 
 {% tab title="Unexpected Behavior" %}
-### Unexpected Aircraft Behavior
+#### Unexpected Aircraft Behavior
 
-If aircraft behaves unexpectedly, do the following: neutralize inputs, activate Position Mode, and observe the aircraft. If it is still flying in an uncommanded manner in Position or Altitude Mode, switch to Manual Mode.&#x20;
+If aircraft behaves unexpectedly, do the following: neutralize inputs, activate Position Mode, and observe the aircraft. If it is still flying in an uncommanded manner in Position or Altitude Mode, switch to Manual Mode.
 
 In some cases, unexpected behavior is due to degraded GPS signal or erroneous sensor readings (e.g. compass error). In such cases, Return Mode may not behave reliably. Manual Mode does not rely on these sensors.
 
@@ -54,7 +50,7 @@ Land as soon as possible.
 {% endtab %}
 
 {% tab title="Landing Detector Failure" %}
-### Landing Detector Failure
+#### Landing Detector Failure
 
 If the aircraft touches down, but hops back up into the air several times, or sits on the ground with the props continuing to spin, the autopilot may not have detected a landing. Climb and retry landing with a greater downward velocity.
 
@@ -68,7 +64,7 @@ If an attempted landing is unsuccessful in Manual Mode, perform an Emergency Sto
 {% endtab %}
 
 {% tab title="GPS Loss" %}
-### Loss of GPS
+#### Loss of GPS
 
 If GPS is lost, flight modes that rely on GPS (Position, Return, Mission, etc) will not be available. If the aircraft is in Position mode when GPS is lost, the autopilot will switch to Altitude Mode. If the aircraft is in Return or Mission modes when GPS is lost, it will automatically start landing. Landing can be overridden by the pilot by changing modes to Altitude or Manual modes.
 
@@ -86,7 +82,7 @@ Examples of behavior without GPS:
 {% endtab %}
 
 {% tab title="RC Loss of Signal (LOS)" %}
-### RC Loss of Signal (LOS)
+#### RC Loss of Signal (LOS)
 
 RC Loss of Signal (LOS) can occur if the pilot handset signal is degraded or stops, or if aircraft does not receive the signal due to distance or interference (e.g. from obstacles or other radio signals).
 
@@ -98,7 +94,7 @@ If the signal is recovered, the pilot will be able to take control by pressing a
 {% endtab %}
 
 {% tab title="Video Loss" %}
-### Loss of Video Signal
+#### Loss of Video Signal
 
 Loss of Video Signal can occur if the aircraft flies out of range or if it flies behind an object that interrupts the signal. Maintaining visual contact is the preferred method to re-establish control of the aircraft, either with the pilot seeing the aircraft or by the use of a visual observer.
 
@@ -112,16 +108,12 @@ It is the responsibility of the pilot to see and avoid other aircraft, people, o
 {% endtab %}
 {% endtabs %}
 
-
-
 ***
-
-
 
 ## Emergency Stop
 
 {% hint style="danger" %}
-#### As a last resort, if it is not possible to land or control the aircraft, perform an Emergency Stop. If performed while flying, this will cause the aircraft to crash. Perform the Emergency Stop as far away from people as possible.
+**As a last resort, if it is not possible to land or control the aircraft, perform an Emergency Stop. If performed while flying, this will cause the aircraft to crash. Perform the Emergency Stop as far away from people as possible.**
 {% endhint %}
 
 There are three ways to initiate emergency stop:
@@ -130,11 +122,7 @@ There are three ways to initiate emergency stop:
 * Pilot Pro: In Manual Mode, hold the throttle stick down and left for 10 seconds.
 * AMC: Tap "Armed" button (top center of screen) and swipe/hold to shut down. This will work even when the aircraft is airborne.
 
-
-
 ***
-
-
 
 ## Failsafes
 
@@ -148,9 +136,9 @@ We strongly recommend using the default settings, changing only Return Altitude,
 
 As the battery level becomes low, the autopilot can take action. The default settings do not interfere until the battery becomes quite low. Additionally, low battery failsafes are only able to estimate how long it will take the aircraft to return to the home point. This means it is the pilot's responsibility to be aware of the battery level and ensure the aircraft is on the ground.
 
-Autopilot uses a variety of inputs to warn or take action.&#x20;
+Autopilot uses a variety of inputs to warn or take action.
 
-* State of Charge (SoC) of the batteries.&#x20;
+* State of Charge (SoC) of the batteries.
 * Onboard voltage measurement.
 * Complex time to home estimation based on flight characteristics
 
@@ -166,18 +154,12 @@ Autopilot uses a variety of inputs to warn or take action.&#x20;
 When activated by a low battery failsafe, Return and Land Mode cannot be overridden by stick movement. They can be overridden by pressing a flight mode button (e.g. Position).
 {% endhint %}
 
-
-
 ***
 
+## Error and Warning Indication
 
-
-## Error and Warning Indication&#x20;
-
-The aircraft communicates the presence of errors and warnings primarily through Auterion Mission Control (AMC) [status indicators](https://docs.auterion.com/auterion-mission-control/fly/fly-view-ui-overview#vehicle-status-indicators-top-bar) on the pilot handset or PC. Many messages are accompanied by an audible message (e.g. "Return Flight Mode"). Additionally, Alta X Gen2 boom LEDs will flash when the battery level is critical.&#x20;
+The aircraft communicates the presence of errors and warnings primarily through Auterion Mission Control (AMC) [status indicators](https://docs.auterion.com/auterion-mission-control/fly/fly-view-ui-overview#vehicle-status-indicators-top-bar) on the pilot handset or PC. Many messages are accompanied by an audible message (e.g. "Return Flight Mode"). Additionally, Alta X Gen2 boom LEDs will flash when the battery level is critical.
 
 Status messages, including errors and warnings, are stored in Flight Logs. After any emergency, review the log to determine the source of the problem.
 
 If the meaning of an error or warning is not clear, please [contact Freefly Support](https://freeflysystems.com/contact). Share as much detail as possible, including sharing the flight log.
-
-

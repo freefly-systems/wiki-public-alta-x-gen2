@@ -10,7 +10,7 @@ Alta X Gen2 comes with 12mm rails and the Smart Dovetail isolator. To remove the
 
 2. Unplug the Smart Dovetail from Alta X Gen2’s IO panel. Grip the connector and depress the locking tab then gently unseat.
 
-<figure><img src="../.gitbook/assets/unknown (17).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/unknown (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 <br>
 
@@ -32,12 +32,12 @@ Alta X Gen2 comes with 12mm rails and the Smart Dovetail isolator. To remove the
 
 <figure><img src="../.gitbook/assets/unknown (19).png" alt="" width="563"><figcaption></figcaption></figure>
 
-2. Attach the two rail adapters to the bottom chassis with 4x M3x10 combo head screws. Only loosely tighten these.&#x20;
-3. Open the locking levers on the adapters and slide in the two 12x500mm tubes. Sliding in the tubes will align the adapters to be parallel.&#x20;
-4.  Tighten the four screws fully, then close the locking levers to clamp the tubes.&#x20;
+2. Attach the two rail adapters to the bottom chassis with 4x M3x10 combo head screws. Only loosely tighten these.
+3. Open the locking levers on the adapters and slide in the two 12x500mm tubes. Sliding in the tubes will align the adapters to be parallel.
+4.  Tighten the four screws fully, then close the locking levers to clamp the tubes.
 
     <figure><img src="../.gitbook/assets/image (12).png" alt="" width="563"><figcaption></figcaption></figure>
-5. Slide on or set the isolator on the rails. Close the locking levers loosely to retain the isolator on the rail.&#x20;
+5. Slide on or set the isolator on the rails. Close the locking levers loosely to retain the isolator on the rail.
 
 <figure><img src="../.gitbook/assets/unknown (21).png" alt="" width="563"><figcaption></figcaption></figure>
 
@@ -46,7 +46,7 @@ Alta X Gen2 comes with 12mm rails and the Smart Dovetail isolator. To remove the
 
 <figure><img src="../.gitbook/assets/unknown (4).jpeg" alt="" width="563"><figcaption></figcaption></figure>
 
-7. When fully aligned, clamp the isolator fully onto the rails.&#x20;
+7. When fully aligned, clamp the isolator fully onto the rails.
 
 <figure><img src="../.gitbook/assets/unknown (22).png" alt="" width="563"><figcaption></figcaption></figure>
 
@@ -55,4 +55,3 @@ Alta X Gen2 comes with 12mm rails and the Smart Dovetail isolator. To remove the
 <figure><img src="../.gitbook/assets/unknown (23).png" alt="" width="563"><figcaption></figcaption></figure>
 
 <br>
-
