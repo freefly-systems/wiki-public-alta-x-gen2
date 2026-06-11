@@ -119,7 +119,7 @@ You can exit Return Mode by pressing another flight mode button.
 
 #### **Return behavior based on position:**
 
-In most cases, RTL mode will travel to the predetermined RTL altitude, travel over the home point, and automatically descend to land. However, if the aircraft is close to the home point, the behavior will be slightly different in order to save time and reduce the amount of distance Astro will need to move.
+In most cases, RTL mode will travel to the predetermined RTL altitude, travel over the home point, and automatically descend to land. However, if the aircraft is close to the home point, the behavior will be slightly different in order to save time and reduce the amount of distance the aircraft will need to move.
 
 <figure><img src="../.gitbook/assets/Generated Image January 23, 2026 - 3_02PM.jpeg" alt="" width="375"><figcaption></figcaption></figure>
 
