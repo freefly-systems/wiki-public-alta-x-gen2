@@ -2,7 +2,7 @@
 
 * [Alta X Gen2](README.md)
 
-## PILOT'S OPERATING HANDBOOK
+## Pilot's Operating Handbook
 
 * [Getting Started](<README (1).md>)
 * [System Overview](pilots-operating-handbook/system-overview.md)
@@ -12,7 +12,7 @@
 * [Pro-tips and Limitations](pilots-operating-handbook/pro-tips-and-limitations.md)
 * [Ecosystem / Payloads / Accessories / Workflows](pilots-operating-handbook/ecosystem-payloads-accessories-workflows.md)
 
-## MAINTENANCE
+## Maintenance
 
 * [Software Updates](maintenance/software-updates/README.md)
   * [Updating Firmware](maintenance/software-updates/updating-firmware.md)
@@ -23,7 +23,7 @@
 * [Rails and Isolator](maintenance/rails-and-isolator.md)
 * [FAQ](maintenance/faq.md)
 
-## SPECS
+## Specs
 
 * [Tech Specs](specs/tech-specs.md)
 * [Performance Data](specs/performance-data.md)
