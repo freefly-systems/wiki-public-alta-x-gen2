@@ -1,7 +1,11 @@
+---
+icon: drone-front
+---
+
 # Flight Part 2 - Operation
 
 {% hint style="warning" %}
-Make sure you understand Alta X Gen2's [Emergency Procedures](flight-part-3-emergency-procedures.md) and can operate in [Manual Mode](flight-part-1-modes.md#manual) before taking flight.
+Make sure you understand Alta X Gen2's [Emergency Procedures](emergency-procedures.md) and can operate in [Manual Mode](flight-modes.md#manual) before taking flight.
 {% endhint %}
 
 ## Flight Checklists
@@ -12,11 +16,7 @@ Below is our recommended checklist and emergency procedures, which covers the ma
 
 We also offer this checklist as a [Google Sheet template](https://docs.google.com/spreadsheets/d/1JPw9swa9Qgde6kN0BwlyTe5oQbtJ-K0krS4xsyxAoW8/edit?usp=sharing) for customization to your company's procedures, workflow, or region.
 
-
-
 ***
-
-
 
 ## Before Flight
 
@@ -24,8 +24,6 @@ We also offer this checklist as a [Google Sheet template](https://docs.google.co
 
 * Press the power button once to wake it up and to check its charge level. Press a second time to power it on.
 * Once the Tablet boots, the Pilot Pro App will open. Switch to AMC app for flight.
-
-
 
 #### Powering On Alta X Gen2
 
@@ -37,8 +35,6 @@ We also offer this checklist as a [Google Sheet template](https://docs.google.co
 Bench mode (single battery + fused cable) is not a substitute for the absolute safety of removing propellers.
 {% endhint %}
 
-
-
 #### Checking Battery Levels
 
 * Once connected, AMC displays Alta X Gen2 battery level in the status bar. Tap the battery indicator to see more details, such as per-battery values.
@@ -49,11 +45,7 @@ Bench mode (single battery + fused cable) is not a substitute for the absolute s
 The LED indicator on the Tattu battery itself can be inaccurate. For accurate state of charge, check via the Tattu Smart Charger or AMC.
 {% endhint %}
 
-
-
 ***
-
-
 
 ## Arming and Disarming
 
@@ -69,12 +61,8 @@ Alta X Gen2 has two states:
 * Missions with a takeoff command will arm automatically when initiated.
 
 {% hint style="danger" %}
-Before arming, ensure people and other obstacles are clear of the propellers.&#x20;
+Before arming, ensure people and other obstacles are clear of the propellers.
 {% endhint %}
-
-
-
-
 
 #### Arming and Disarming with Sticks (Mode 2)
 
@@ -87,8 +75,6 @@ Before arming, ensure people and other obstacles are clear of the propellers.&#x
 * Use only the throttle stick. Alta X Gen2 does not respond to two-stick arming gestures (i.e. DJI arming gesture)
 * The pilot's handset default configuration is [Mode 2](https://docs.px4.io/master/en/getting_started/rc_transmitter_receiver.html#types-of-remote-controls).
 
-
-
 #### Automatic Disarm
 
 Under these conditions, Alta X Gen2 will automatically disarm.
@@ -98,11 +84,7 @@ Under these conditions, Alta X Gen2 will automatically disarm.
 | Ground timeout      | If armed but idle on ground for 10 seconds, auto-disarms |
 | Return or Land mode | After detected landing, disarms after 2 seconds          |
 
-
-
 ***
-
-
 
 ## Taking Off
 
@@ -125,11 +107,7 @@ For 5 seconds after takeoff, maximum pitch and roll angles are limited to 12 deg
 3. As throttle approaches mid-point, aircraft will lift off
 4. Continue raising throttle for a brisk takeoff
 
-
-
 ***
-
-
 
 ## Landing
 
@@ -183,17 +161,8 @@ Landing in Manual Mode is different than Position or Altitude Mode because the p
 {% endtab %}
 {% endtabs %}
 
-
-
 {% hint style="danger" %}
-While Alta X Gen2 will recognize that the battery is low and perform a failsafe action (return to launch by default), the aircraft has no context of situations that might prevent a safe landing before the battery is exhausted. For instance, if the aircraft is several miles away from the RTL point when the failsafe is triggered, there is a chance that there won't be enough battery life to return. \
+While Alta X Gen2 will recognize that the battery is low and perform a failsafe action (return to launch by default), the aircraft has no context of situations that might prevent a safe landing before the battery is exhausted. For instance, if the aircraft is several miles away from the RTL point when the failsafe is triggered, there is a chance that there won't be enough battery life to return.\
 \
 It is the pilot's responsibility to determine the appropriate time for a battery change and to ensure the aircraft is safely grounded.
 {% endhint %}
-
-
-
-
-
-
-

@@ -1,3 +1,7 @@
+---
+icon: bolt
+---
+
 # Tech Specs
 
 ## Propellers
@@ -9,15 +13,15 @@
 
 ## Battery
 
-| Cells                                                |                                       12S |
-| ---------------------------------------------------- | ----------------------------------------: |
-| Nominal Battery Voltage                              |                                     44.4V |
-| Peak Battery Voltage                                 |                                     50.4V |
-| Battery Connectors                                   |                         AS150U Anti Spark |
-| Required Minimum Battery Discharge Rating (Per Pack) | 260A per battery (assumes two batteries)  |
+| Cells                                                |                                      12S |
+| ---------------------------------------------------- | ---------------------------------------: |
+| Nominal Battery Voltage                              |                                    44.4V |
+| Peak Battery Voltage                                 |                                    50.4V |
+| Battery Connectors                                   |                        AS150U Anti Spark |
+| Required Minimum Battery Discharge Rating (Per Pack) | 260A per battery (assumes two batteries) |
 
 {% hint style="warning" %}
-Battery hot swaps are not recommended. Please power off the aircraft by disconnecting both batteries when swapping packs to ensure ideal performance and battery lifespan.&#x20;
+Battery hot swaps are not recommended. Please power off the aircraft by disconnecting both batteries when swapping packs to ensure ideal performance and battery lifespan.
 {% endhint %}
 
 {% hint style="info" %}
@@ -66,4 +70,3 @@ Battery Tray Dimensions
 ## Radio Control
 
 For more information on the Radio, please visit our [Pilot Pro Radio Specs](https://freefly.gitbook.io/pilot-pro-public/specs/radio-technical-specs)
-

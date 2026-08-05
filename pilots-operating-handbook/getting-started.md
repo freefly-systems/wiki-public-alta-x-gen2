@@ -1,10 +1,11 @@
 ---
 description: How to get set up for a successful and safe first flight!
+icon: keyboard-brightness
 ---
 
 # Getting Started
 
-<figure><img src=".gitbook/assets/1.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/1.jpg" alt=""><figcaption></figcaption></figure>
 
 ## 1. Unboxing and Assembly
 
@@ -12,11 +13,11 @@ a. Remove the landing gear components from the top lid of the case.
 
 b. Insert leg tubes into T-joints until seated, lock red clamps. _(The leg tubes and skids are interchangeable.)_
 
-<figure><img src=".gitbook/assets/unknown.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/unknown.png" alt="" width="563"><figcaption></figcaption></figure>
 
 c. Place Alta X Gen2 upside down, open locking levers, insert landing gear into leg mounts. Ensure both levers and safety latches are fully engaged.
 
-<figure><img src=".gitbook/assets/unknown (3).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/unknown (3).png" alt="" width="563"><figcaption></figcaption></figure>
 
 d. Flip aircraft onto landing gear.
 
@@ -42,11 +43,11 @@ _Enables automatic log uploads, online fleet and asset management, and direct lo
 
 a. With Alta X Gen2 powered on, open AMC and navigate to Vehicle Overview > Connectivity.
 
-<figure><img src=".gitbook/assets/unknown.jpeg" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/unknown.jpeg" alt="" width="563"><figcaption></figcaption></figure>
 
 b. Enable WiFi (not hotspot mode), enter network credentials, and click Connect.
 
-<figure><img src=".gitbook/assets/unknown (1).jpeg" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/unknown (1).jpeg" alt="" width="563"><figcaption></figcaption></figure>
 
 c. Connect USB-C cable from computer to Alta X Gen2 (port located near battery connectors).
 
@@ -64,13 +65,13 @@ a. Charge aircraft batteries using a Tattu Smart Charger. _(Balance leads are no
 
 b. Charge Pilot Pro with the included 45W USB-C charger.
 
-<figure><img src=".gitbook/assets/image (25).png" alt="" width="356"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (25).png" alt="" width="356"><figcaption></figcaption></figure>
 
 c. Verify firmware is current on both aircraft and controller.
 
 ## 5. Go Flying
 
-a. While the batteries and controller are charging, read the [PILOT'S OPERATING HANDBOOK](https://app.gitbook.com/s/mvvtTxCd0o4luBB04PQp/pilots-operating-handbook "mention").
+a. While the batteries and controller are charging, read the [Pilot's Operating Handbook](https://app.gitbook.com/s/mvvtTxCd0o4luBB04PQp/pilots-operating-handbook "mention").
 
 ***
 

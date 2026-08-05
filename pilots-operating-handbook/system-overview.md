@@ -1,3 +1,7 @@
+---
+icon: book-open-lines
+---
+
 # System Overview
 
 <figure><img src="../.gitbook/assets/AltaXGen2-060.jpg" alt=""><figcaption></figcaption></figure>
@@ -29,4 +33,3 @@ Alta X Gen2 is designed to operate with two Tattu Plus 1.0 12S 16Ah smart batter
 The Tattu TA3200 smart battery charger enables single connector charging for ease of use.
 
 <figure><img src="../.gitbook/assets/AltaXGen2-047.jpg" alt=""><figcaption></figcaption></figure>
-

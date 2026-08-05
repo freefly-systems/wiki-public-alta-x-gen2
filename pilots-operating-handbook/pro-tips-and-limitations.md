@@ -1,3 +1,7 @@
+---
+icon: lightbulb
+---
+
 # Pro-tips and Limitations
 
 It is possible to operate Alta X Gen2 close to the limits of performance by maintaining awareness of the performance envelope, how the aircraft behaves if the limits are exceeded, and best practices for operating in harsh environments.
@@ -72,7 +76,7 @@ To keep batteries warm, charge them in a heated environment and store them in an
 
 Alta X Gen2 is designed to withstand light rain ([IP43 rated](../specs/tech-specs.md#environmental)). Ensure the IO panel, voltage regulator, and USB covers are installed when flying in dusty or wet conditions.
 
-When flying in rain, we have seen some instances where water ingresses to the battery through the balance lead port. This may cause the battery’s BMS to report incorrect information. To prevent this, we include stickers to cover the balance port on the batteries. See [here](../maintenance/batteries-and-charging.md#installing-the-battery-balance-port-stickers) for instructions on installing them.
+When flying in rain, we have seen some instances where water ingresses to the battery through the balance lead port. This may cause the battery’s BMS to report incorrect information. To prevent this, we include stickers to cover the balance port on the batteries. See [here](../other-user-manuals/ecosystem/batteries-and-charging.md#installing-the-battery-balance-port-stickers) for instructions on installing them.
 
 ## Travel and Shipping
 

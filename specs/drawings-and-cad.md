@@ -1,15 +1,19 @@
+---
+icon: unity
+---
+
 # Drawings & CAD
 
 ### Aircraft Dimensions
 
 | Dimension                                                                                       | Length \[mm] |
 | ----------------------------------------------------------------------------------------------- | ------------ |
-| Unfolded Diameter (not including props)&#xD;                                                    | 1570         |
-| Unfolded Diameter (Including Props)&#xD;                                                        | 2273         |
-| Folded Diameter&#xD;                                                                            | 877          |
-| Height with landing gear (medium legs, ground to top of prop mount)&#xD;                        | 694          |
+| Unfolded Diameter (not including props)                                                         | 1570         |
+| Unfolded Diameter (Including Props)                                                             | 2273         |
+| Folded Diameter                                                                                 | 877          |
+| Height with landing gear (medium legs, ground to top of prop mount)                             | 694          |
 | <p>Height from chassis underside to ground</p><p>(medium leg length landing gear, included)</p> | 450          |
-| <p>Height from chassis underside to ground </p><p>(long leg length landing gear)</p>            | 580          |
+| <p>Height from chassis underside to ground</p><p>(long leg length landing gear)</p>             | 580          |
 
 ### Mounting Interfaces - Chassis Underside
 
@@ -25,7 +29,7 @@
 
 ### Electronics Bay Door
 
-Electronics bay access panel.  Start with this model and customize as needed. &#x20;
+Electronics bay access panel. Start with this model and customize as needed.
 
 <figure><img src="../.gitbook/assets/445-00248 Access Panel Solid_image.JPG" alt=""><figcaption></figcaption></figure>
 
@@ -35,7 +39,7 @@ Electronics bay access panel.  Start with this model and customize as needed. &#
 
 ### Electronics Bay Mount Interface
 
-Location of four mounting posts in electronics bay and a sample part. &#x20;
+Location of four mounting posts in electronics bay and a sample part.
 
 <figure><img src="../.gitbook/assets/AltaXGen2-020.jpg" alt=""><figcaption></figcaption></figure>
 

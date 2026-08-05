@@ -1,3 +1,7 @@
+---
+icon: drone-front
+---
+
 # Flight Part 3 - Emergency Procedures
 
 ## General Guidance
@@ -6,7 +10,7 @@
 
 Emergency situations are dynamic events, that will not often conform perfectly to the categories listed below. A thorough understanding of aircraft systems, proficiency in piloting the aircraft, and sound judgment will allow you to bring about the best possible outcome in an emergency.
 
-The likelihood of an emergency can be reduced substantially through proper aircraft maintenance, the use of [checklists for normal procedures](flight-part-2-operation.md#flight-checklists), and careful pre-flight planning. The likelihood of a safe flight often depends on the diligence of the pilot, both before taking off and during operation.
+The likelihood of an emergency can be reduced substantially through proper aircraft maintenance, the use of [checklists for normal procedures](operation.md#flight-checklists), and careful pre-flight planning. The likelihood of a safe flight often depends on the diligence of the pilot, both before taking off and during operation.
 
 In general, if an emergency occurs, three basic actions can be applied to most situations:
 
@@ -16,7 +20,7 @@ In general, if an emergency occurs, three basic actions can be applied to most s
 
 ### Return Mode
 
-Do not be over-reliant on [Return Mode](flight-part-3-emergency-procedures.md#return-mode) in emergencies. The cause of the emergency may degrade or disable Return Mode (e.g., GPS loss disables Return Mode).
+Do not be over-reliant on [Return Mode](emergency-procedures.md#return-mode) in emergencies. The cause of the emergency may degrade or disable Return Mode (e.g., GPS loss disables Return Mode).
 
 By default, stick movements do not interrupt Return Mode. Press a flight mode button to exit Return Mode.
 
@@ -24,7 +28,7 @@ By default, stick movements do not interrupt Return Mode. Press a flight mode bu
 
 ## Emergency Checklists
 
-The flight [checklists](flight-part-2-operation.md#flight-checklists) contain concise instructions to follow to mitigate risk in the event of an in-flight emergency. Some of these situations are discussed in more detail below.
+The flight [checklists](operation.md#flight-checklists) contain concise instructions to follow to mitigate risk in the event of an in-flight emergency. Some of these situations are discussed in more detail below.
 
 {% tabs %}
 {% tab title="Orientation Loss" %}

@@ -1,5 +1,6 @@
 ---
 description: Understand the Flight Modes available on Alta X Gen2
+icon: drone-front
 ---
 
 # Flight Part 1 - Modes

@@ -1,3 +1,7 @@
+---
+icon: wrench
+---
+
 # Standard Maintenance Procedures
 
 {% hint style="danger" %}
@@ -26,7 +30,7 @@ If an item is not specifically listed under any preventative maintenance schedul
 At any point if you are concerned about something on the aircraft you can contact Freefly Support or purchase a Preventative Maintenance Checkup.
 
 {% hint style="warning" %}
-Note: it is key to keep both your aircraft and controller firmware up to date. Review the [Software Release Notes](software-updates.md#current-software-release) or review the software updates page in the Auterion Suite to maintain your vehicle firmware.
+Note: it is key to keep both your aircraft and controller firmware up to date. Review the [Software Release Notes](https://github.com/freefly-systems/wiki-public-alta-x-gen2/blob/main/maintenance/software-updates.md#current-software-release) or review the software updates page in the Auterion Suite to maintain your vehicle firmware.
 {% endhint %}
 
 ### Every Flight

@@ -1,3 +1,7 @@
+---
+icon: circle-wifi
+---
+
 # Network and Connectivity
 
 ### WiFi
@@ -30,10 +34,6 @@ Alta X Gen2's WiFi module is compatible with 5.8GHz and 2.4GHz bands. When possi
 2. Power Alta X Gen2.
 3. Tap the icon in the top-left of AMC. Navigate to Vehicle Setup > WiFi.
 4. Set Wifi Mode to Hotspot, which allows Alta X Gen2 to broadcast a WiFi network that other devices can connect to.
-
-
-
-
 
 ***
 
@@ -86,43 +86,30 @@ In most cases, check the "Allow Roaming" box.
 
 After changing the SIM, reboot both the aircraft and AMC.
 
-
-
-
-
 ***
 
 ### Installing a SIM card
 
 Alta X Gen2 has an onboard North American LTE modem for remote connectivity. To install a SIM card:
 
-1.  Place Alta X Gen2 upside down on a clean flat surface with the nose pointing away from you.&#x20;
+1.  Place Alta X Gen2 upside down on a clean flat surface with the nose pointing away from you.
 
     <figure><img src="../.gitbook/assets/image (8).png" alt="" width="563"><figcaption></figcaption></figure>
 2.  Using the included 2mm hex driver, remove the 9 screws from the bay door on the left side of the aircraft.
 
-
-
     <figure><img src="../.gitbook/assets/image (10).png" alt="" width="563"><figcaption></figcaption></figure>
-3.  Remove the carbon fiber panel.&#x20;
+3.  Remove the carbon fiber panel.
 
     <figure><img src="../.gitbook/assets/image (9).png" alt="" width="563"><figcaption></figcaption></figure>
-4.  Insert the SIM card into the SIM card slot on the LTE modem. Ensure the card is fully seated and clicks in.&#x20;
+4.  Insert the SIM card into the SIM card slot on the LTE modem. Ensure the card is fully seated and clicks in.
 
     <figure><img src="../.gitbook/assets/Gen2-sim-card-rotated.gif" alt="" width="563"><figcaption></figcaption></figure>
-
-
-5.  Reinstall the carbon fiber panel and loosely screw in all 9 screws holding the panel in place.&#x20;
-
-
+5.  Reinstall the carbon fiber panel and loosely screw in all 9 screws holding the panel in place.
 
     <figure><img src="../.gitbook/assets/image (10).png" alt="" width="563"><figcaption></figcaption></figure>
 6. Once all screws are installed, hand tighten all screws, working in a star pattern around the panel.
 7. Power on Pilot Pro.
-8. Power on Alta X Gen2 with one battery and the fused cable.&#x20;
-9. Open AMC on Pilot Pro, click vehicle overview, select connectivity, then LTE.&#x20;
+8. Power on Alta X Gen2 with one battery and the fused cable.
+9. Open AMC on Pilot Pro, click vehicle overview, select connectivity, then LTE.
 10. Enter the APN for the cellular service provider in the box, then click save.
 11. Verify the cellular status shows connected.
-
-
-
