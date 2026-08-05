@@ -1,3 +1,7 @@
+---
+icon: gavel
+---
+
 # Compliance
 
 ## FAA Remote Identification (RID)
@@ -12,9 +16,9 @@ Registration
 
 <figure><img src="../.gitbook/assets/image (31).png" alt="" width="375"><figcaption></figcaption></figure>
 
-&#x20;     \- Prefix with **18179** to get your FAA Remote ID Serial Number (e.g., 18179132000209)
+\- Prefix with **18179** to get your FAA Remote ID Serial Number (e.g., 18179132000209)
 
-2. Register at [https://faadronezone.faa.gov](https://faadronezone.faa.gov/) \
+2. Register at [https://faadronezone.faa.gov](https://faadronezone.faa.gov/)\
    \- Log in or create an account\
    \- Select 'Drone Owners and Pilots Dashboard'\
    \- Select 'Manage Device Inventory' → 'Add Device'
@@ -22,8 +26,4 @@ Registration
    \- Print a label indicating "FAA Standard Remote ID Compliant"\
    \- Label must be in English, legible, prominent, and permanently affixed
 
-
-
-
-
-### &#x20; <a href="#intro" id="intro"></a>
+### &#x20;<a href="#intro" id="intro"></a>
