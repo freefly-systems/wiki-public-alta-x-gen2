@@ -80,8 +80,8 @@ The battery mode can be changed to disable smart battery mode. This enables flyi
 4. Click the icon again to open the side menu, then navigate to Advanced -> Parameters.
 5. Enter "FF\_AX2\_BAT\_CFG" in the search box, then select the FF\_AX2\_BAT\_CFG parameter.
 6. Enter the new value, the click Save.
-   1. To enable Smart Battery mode (enabled by default) set this parameter to 2.
-   2. To disable Smart Battery mode set this parameter to 0.
+   1. To enable Smart Battery mode (enabled by default) set this parameter to "2 Smart Batteries with UAVCAN". If entering the raw value, it is `2`
+   2. To disable Smart Battery mode set this parameter "1 or 2 Dumb Batteries". If entering the raw value, it is `0`
 7. Once saved, reboot the aircraft.
 
 ***
