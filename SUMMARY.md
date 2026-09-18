@@ -25,7 +25,7 @@
 * [Tech Specs](specs/tech-specs.md)
 * [Performance Data](specs/performance-data.md)
 * [Drawings & CAD](specs/drawings-and-cad.md)
-* [Integration](specs/integration.md)
+* [Interfaces](specs/integration.md)
 
 ## Other user manuals
 

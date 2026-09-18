@@ -20,13 +20,13 @@ Alta X Gen2 comes standard with 12mm rails and the Smart Dovetail isolator for q
 
 Alta X Gen2 ships with [Pilot Pro](https://freeflysystems.com/pilot-pro), our custom controller, with either Herelink or Doodle radio. For more information, check the [Pilot Pro wiki](https://freefly.gitbook.io/pilot-pro-public/).
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Batteries
 
 Alta X Gen2 is designed to operate with two Tattu Plus 1.0 12S 16Ah smart batteries with AS150U connectors.
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Charger
 

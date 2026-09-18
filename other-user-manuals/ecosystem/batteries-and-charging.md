@@ -24,7 +24,7 @@ For more information, see the charger's [user manual](https://www.genstattu.com/
 
 Alta X Gen2 is designed to operate with two Tattu Plus 1.0 12S 16Ah smart batteries with AS150U connectors.
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
