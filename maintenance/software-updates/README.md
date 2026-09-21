@@ -12,6 +12,104 @@ icon: rotate
 
 <details>
 
+<summary><strong>Alta X Gen2 v2.3.7</strong></summary>
+
+<a href="https://freeflyeng.s3.us-west-2.amazonaws.com/_SoftwareReleases/skynode-altaxgen2-v2.3.7-prod.auterionos" class="button primary">DOWNLOAD v2.3.7</a>
+
+
+
+* **Summary**: Feature release bringing a Doodle radio firmware update, thermal mapping features, Pilot Pro RTK improvements, and more
+* **Release Date**: September 2026
+* **Versions in this package**:
+  * Alta X Gen2 Skynode: v2.3.7
+  * PX4: v2.3.6
+  * AMC: 1.37.25-2.1.0
+  * Pilot Pro App: 2.8.6
+  * Freefly Updater App: 3.1.2
+* **Notes** (Going from Alta X Gen2 v2.2.6 to v2.3.7)
+  * **Read more about the highlights** [**here**](https://docs.freeflysystems.com/astro/maintenance/software-release-notes/astro-software-v2.3-whats-new)**.** Astro and Alta X Gen2 share the same v2.3 software release, so the same notes apply.
+  * **Flight**
+    * **New:** Boom LED feedback during radio pairing.
+    * **New:** Pilot Pro kill switch link health check.
+    * **New:** Enabled Dual-antenna GNSS heading.
+    * **New:** Check for significant disagreement between magnetic and GNSS heading.
+    * **New:** Warnings when either GPS module is missing.
+    * **Fix:** More permissive in-air GPS checks no longer apply during pre-arm checks.
+    * **Fix:** Gimbal tilt-rate zoom scaling no longer applies twice.
+    * **Fix:** Drone can no longer initiate failsafe RTL after emergency flight termination.
+    * **Fix:** In Manual mode, the arming stick gesture no longer pans the gimbal before takeoff.
+    * **Fix:** Switching to automated takeoff immediately after arming in Manual mode no longer skips motor spoolup.
+    * **Fix:** Yaw setpoint no longer shifts unexpectedly when switching from Position to Manual mode.
+    * **Fix:** Drone no longer maintains vertical velocity too long after switching from Manual to Position mode.
+  * **Payload**
+    * **Boson Thermal Camera**
+      * **New:** FLIR RJPEG image file format support.
+      * **New:** Camera multi-capture for missions.
+      * **Improvement:** Wildfire preset gamma updated to 1.6.
+    * **LR1 Laser Range Finder**
+      * **New:** Laser range finder driver installed by default.
+        * Blue units can use the LRF add-on without breaking compliance by allowing app installation.
+        * **Note:** Uninstall the previously installed `camera-distance-sensor` AOS app to avoid conflicts.
+  * **Pilot Pro**
+    * **New:** Added a setting to automatically reconnect to an RTK correction source at startup.
+    * **Improvement:** Clearer RTK correction status UI.
+    * **Improvement:** NTRIP server compatibility, including NTRIP 2.0 casters and chunked data transfer.
+    * **New:** Save and load multiple NTRIP server profiles.
+    * **New:** Tablet volume raises to 100% when armed and restores when disarmed. Configurable in **Tablet Settings**.
+    * **Improvement:** Pilot Pro data interface now reports the active IO mapping configuration, verification status, parameter checksum, app version, and interface version.
+    * **Doodle Radio Firmware**
+      * **New:** Update Doodle radio firmware to version 2.0 through the Pilot Pro app.
+      * **Improvement:** Doodle 2.0 includes bug fixes and improved resilience in heavy RF interference.
+  * **Auterion Mission Control**
+    * **Improvement:** Base AMC version updated to 1.37.
+    * **New:** “Mission Capture Camera” option for multi-camera capture during missions.
+    * **Improvement:** Simplified version information in **Vehicle Overview** → **More**.
+    * **Improvement:** Manual-mode hover throttle adjustment moved to **Vehicle Overview** → **Flight Config**. It is now shown in normal and advanced modes.
+    * **Improvement:** System Health user experience:
+      * Standardized vehicle status and health-check severity colors.
+        * Red: arming is denied.
+        * Orange: arm with caution.
+      * **System Health** is now the default panel in **Vehicle Overview**.
+      * Added inactive-mode health-check failures to the panel. These result in an orange caution status.
+      * Improved several health-check messages.
+      * Improved prioritization and deduplication of banner and audible alerts.
+      * Disabled audible alerts while disarmed.
+    * **New:** Download only new vehicle photos when viewing the gallery.
+    * **New:** Button to stop pending downloads while viewing the gallery.
+    * **New:** Thermal Next Palette button mapping in normal mode.
+    * **New:** Toggle Map/Video button mapping to switch views in the Fly screen.
+    * **Improvement:** Firmware compatibility check warns when vehicle firmware is below the minimum compatible version.
+    * **New:** LR1 + Boson survey-planning preset.
+    * **New:** Pre-filled filename when saving a mission loaded from file.
+    * **Improvement:** Removed Acro mode from available flight modes in advanced mode.
+    * **Fix:** Parameter files now save with a valid file extension.
+    * **Fix:** Parameter files can now be found when loading.
+    * **Fix:** All health-check failures are now shown.
+    * **Fix:** Health-check failures are shown after failsafe landing from Position Slow mode.
+    * **Fix:** Mission flight speed no longer resets when navigating from mission settings.
+    * **Fix:** Map tiles now load on iPhone hotspots.
+    * **Fix:** Mission flight-speed units now convert correctly.
+    * **Fix:** Importing a mission plan now loads mission altitude correctly.
+    * **Fix:** Rocker deadband adjustments now apply correctly.
+    * **Fix:** The Plan screen is no longer blank after switching from Fly with the camera feed maximized.
+    * **Fix:** “Missions do not require Takeoff Item” no longer blocks mission planning.
+    * **Fix:** Long-pressing camera zoom buttons now continuously adjusts zoom.
+    * **Fix:** The map now centers on the vehicle reliably when it has a GPS position.
+
+</details>
+
+### Latest Versions
+
+<table data-full-width="true" data-search="false"><thead><tr><th width="221">Component</th><th width="248">Current Compatible Versions</th><th width="245">How To Update</th></tr></thead><tbody><tr><td><strong>Alta X Gen2</strong></td><td></td><td></td></tr><tr><td>Software</td><td>2.3.7</td><td><a href="updating-firmware.md#updating-alta-x-gen2-firmware">Alta X Gen2 Firmware</a></td></tr><tr><td><strong>Pilot Pro</strong></td><td></td><td></td></tr><tr><td>Pilot Pro Firmware</td><td>2.2.0</td><td><a href="https://freefly.gitbook.io/pilot-pro-public/maintenance/software-and-firmware-updates#how-to-update-pilot-pro-firmware">Update</a> through the Pilot Pro App</td></tr><tr><td>Pilot Pro App</td><td>2.8.6</td><td>Check the <a href="https://freefly.gitbook.io/pilot-pro-public/maintenance/software-and-firmware-updates#app-updates">"updates"</a> section in Updater app</td></tr><tr><td>AMC App</td><td>1.37.25-2.1.0</td><td>Check the <a href="https://freefly.gitbook.io/pilot-pro-public/maintenance/software-and-firmware-updates#app-updates">"updates"</a> section in Updater app. Desktop versions can be downloaded <a href="https://freeflysystems.com/support/astro-support">here</a>.</td></tr><tr><td>Freefly Updater App</td><td>3.1.2</td><td>Check the <a href="https://freefly.gitbook.io/pilot-pro-public/maintenance/software-and-firmware-updates#app-updates">"updates"</a> section in Updater app</td></tr><tr><td><strong>Payloads</strong></td><td></td><td></td></tr><tr><td>Freefly Payloads (LR1, A7R4, OGI, Wiris Pro)</td><td><a href="https://docs.freeflysystems.com/ecosystem/payloads/payload-maintenance/gimbal-firmware">See payloads page</a></td><td><a href="https://docs.freeflysystems.com/ecosystem/payloads/payload-maintenance/gimbal-firmware">Gimbal Firmware</a></td></tr></tbody></table>
+
+***
+
+## Previous Firmware Versions
+
+### Alta X Gen2 v2.2 Release Notes
+
+<details>
+
 <summary><strong>Alta X Gen2 v2.2.6</strong></summary>
 
 <a href="https://freeflyeng.s3.us-west-2.amazonaws.com/_SoftwareReleases/skynode-altaxgen2-v2.2.6-prod.auterionos" class="button primary">DOWNLOAD v2.2.6</a>
@@ -58,14 +156,6 @@ icon: rotate
     * **New (Freefly Updater):** Pop-up warning when there is no internet connectivity.
 
 </details>
-
-### Latest Versions
-
-<table data-full-width="true" data-search="false"><thead><tr><th width="221">Component</th><th width="248">Current Compatible Versions</th><th width="245">How To Update</th></tr></thead><tbody><tr><td><strong>Alta X Gen2</strong></td><td></td><td></td></tr><tr><td>Software</td><td><strong>2.2</strong>.6</td><td><a href="updating-firmware.md#updating-alta-x-gen2-firmware">Alta X Gen2 Firmware</a></td></tr><tr><td><strong>Pilot Pro</strong></td><td></td><td></td></tr><tr><td>Pilot Pro Firmware</td><td><strong>2.2</strong>.0</td><td><a href="https://freefly.gitbook.io/pilot-pro-public/maintenance/software-and-firmware-updates#how-to-update-pilot-pro-firmware">Update</a> through the Pilot Pro App</td></tr><tr><td>Pilot Pro App</td><td><strong>2.7</strong>.4</td><td>Check the <a href="https://freefly.gitbook.io/pilot-pro-public/maintenance/software-and-firmware-updates#app-updates">"updates"</a> section in Updater app</td></tr><tr><td>AMC App</td><td><strong>1.36</strong>.24</td><td>Check the <a href="https://freefly.gitbook.io/pilot-pro-public/maintenance/software-and-firmware-updates#app-updates">"updates"</a> section in Updater app. Desktop versions can be downloaded <a href="https://freeflysystems.com/support/astro-support">here</a>.</td></tr><tr><td>Freefly Updater App</td><td>3.1.1</td><td>Check the <a href="https://freefly.gitbook.io/pilot-pro-public/maintenance/software-and-firmware-updates#app-updates">"updates"</a> section in Updater app</td></tr><tr><td><strong>Payloads</strong></td><td></td><td></td></tr><tr><td>Freefly Payloads (LR1, A7R4, OGI, Wiris Pro)</td><td><a href="https://docs.freeflysystems.com/ecosystem/payloads/payload-maintenance/gimbal-firmware">See payloads page</a></td><td><a href="https://docs.freeflysystems.com/ecosystem/payloads/payload-maintenance/gimbal-firmware">Gimbal Firmware</a></td></tr></tbody></table>
-
-***
-
-## Previous Firmware Versions
 
 ### Alta X Gen2 v2.1 Release Notes
 
