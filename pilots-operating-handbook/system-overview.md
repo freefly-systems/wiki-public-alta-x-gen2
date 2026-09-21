@@ -18,7 +18,7 @@ Alta X Gen2 comes standard with 12mm rails and the Smart Dovetail isolator for q
 
 ### Pilot Pro
 
-Alta X Gen2 ships with [Pilot Pro](https://freeflysystems.com/pilot-pro), our custom controller, with either Herelink or Doodle radio. For more information, check the [Pilot Pro wiki](https://freefly.gitbook.io/pilot-pro-public/).
+Alta X Gen2 ships with [Pilot Pro](https://freeflysystems.com/pilot-pro), our custom controller, with either Herelink or Doodle radio. For more information, check the [Pilot Pro wiki](https://docs.freeflysystems.com/ecosystem/controller/pilot-pro/).
 
 <figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 

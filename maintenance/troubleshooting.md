@@ -139,5 +139,5 @@ If you’re having trouble with LTE connectivity, here’s a few things to check
 * Include photos or videos in your contact in order to get us up to speed as quickly as possible.
 * Include pilot statement and notes of any incident or details
 
-[<br>](https://freefly.gitbook.io/pilot-pro-public/operating-handbook/radio-modules/doodle-labs-radio-module/doodle-rj45-ethernet-port)
+[<br>](https://docs.freeflysystems.com/ecosystem/controller/pilot-pro/operating-handbook/radio-modules/doodle-labs-radio-module/doodle-rj45-ethernet-port)
 
