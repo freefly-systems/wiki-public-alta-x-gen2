@@ -10,20 +10,18 @@ icon: rotate
 
 ## Current Firmware Version
 
+<a href="https://freeflyeng.s3.us-west-2.amazonaws.com/_SoftwareReleases/skynode-altaxgen2-v2.3.7-prod.auterionos" class="button primary">DOWNLOAD v2.3.7</a>
+
 <details>
 
 <summary><strong>Alta X Gen2 v2.3.7</strong></summary>
-
-<a href="https://freeflyeng.s3.us-west-2.amazonaws.com/_SoftwareReleases/skynode-altaxgen2-v2.3.7-prod.auterionos" class="button primary">DOWNLOAD v2.3.7</a>
-
-
 
 * **Summary**: Feature release bringing a Doodle radio firmware update, thermal mapping features, Pilot Pro RTK improvements, and more
 * **Release Date**: September 2026
 * **Versions in this package**:
   * Alta X Gen2 Skynode: v2.3.7
   * PX4: v2.3.6
-  * AMC: 1.37.25-2.1.0
+  * AMC: 2.1.0
   * Pilot Pro App: 2.8.6
   * Freefly Updater App: 3.1.2
 * **Notes** (Going from Alta X Gen2 v2.2.6 to v2.3.7)
@@ -100,7 +98,7 @@ icon: rotate
 
 ### Latest Versions
 
-<table data-full-width="true" data-search="false"><thead><tr><th width="221">Component</th><th width="248">Current Compatible Versions</th><th width="245">How To Update</th></tr></thead><tbody><tr><td><strong>Alta X Gen2</strong></td><td></td><td></td></tr><tr><td>Software</td><td>2.3.7</td><td><a href="updating-firmware.md#updating-alta-x-gen2-firmware">Alta X Gen2 Firmware</a></td></tr><tr><td><strong>Pilot Pro</strong></td><td></td><td></td></tr><tr><td>Pilot Pro Firmware</td><td>2.2.0</td><td><a href="https://freefly.gitbook.io/pilot-pro-public/maintenance/software-and-firmware-updates#how-to-update-pilot-pro-firmware">Update</a> through the Pilot Pro App</td></tr><tr><td>Pilot Pro App</td><td>2.8.6</td><td>Check the <a href="https://freefly.gitbook.io/pilot-pro-public/maintenance/software-and-firmware-updates#app-updates">"updates"</a> section in Updater app</td></tr><tr><td>AMC App</td><td>1.37.25-2.1.0</td><td>Check the <a href="https://freefly.gitbook.io/pilot-pro-public/maintenance/software-and-firmware-updates#app-updates">"updates"</a> section in Updater app. Desktop versions can be downloaded <a href="https://freeflysystems.com/support/astro-support">here</a>.</td></tr><tr><td>Freefly Updater App</td><td>3.1.2</td><td>Check the <a href="https://freefly.gitbook.io/pilot-pro-public/maintenance/software-and-firmware-updates#app-updates">"updates"</a> section in Updater app</td></tr><tr><td><strong>Payloads</strong></td><td></td><td></td></tr><tr><td>Freefly Payloads (LR1, A7R4, OGI, Wiris Pro)</td><td><a href="https://docs.freeflysystems.com/ecosystem/payloads/payload-maintenance/gimbal-firmware">See payloads page</a></td><td><a href="https://docs.freeflysystems.com/ecosystem/payloads/payload-maintenance/gimbal-firmware">Gimbal Firmware</a></td></tr></tbody></table>
+<table data-full-width="true" data-search="false"><thead><tr><th width="221">Component</th><th width="248">Current Compatible Versions</th><th width="245">How To Update</th></tr></thead><tbody><tr><td><strong>Alta X Gen2</strong></td><td></td><td></td></tr><tr><td>Software</td><td>2.3.7</td><td><a href="updating-firmware.md#updating-alta-x-gen2-firmware">Alta X Gen2 Firmware</a></td></tr><tr><td><strong>Pilot Pro</strong></td><td></td><td></td></tr><tr><td>Pilot Pro Firmware</td><td>2.2.0</td><td><a href="https://freefly.gitbook.io/pilot-pro-public/maintenance/software-and-firmware-updates#how-to-update-pilot-pro-firmware">Update</a> through the Pilot Pro App</td></tr><tr><td>Pilot Pro App</td><td>2.8.6</td><td>Check the <a href="https://freefly.gitbook.io/pilot-pro-public/maintenance/software-and-firmware-updates#app-updates">"updates"</a> section in Updater app</td></tr><tr><td>AMC App</td><td>2.1.0</td><td><p>Check the <a href="https://freefly.gitbook.io/pilot-pro-public/maintenance/software-and-firmware-updates#app-updates">"updates"</a> section in Updater app.</p><p><strong>Desktop downloads:</strong></p><p><a href="https://freeflyeng.s3.us-west-2.amazonaws.com/_SoftwareReleases/AuterionMissionControl-amc-v1.37.25-freefly-astro-2.1.0-arm64.dmg">macOS (Apple Silicon)</a></p><p><a href="https://freeflyeng.s3.us-west-2.amazonaws.com/_SoftwareReleases/AuterionMissionControl-amc-v1.37.25-freefly-astro-2.1.0.exe">Windows</a></p><p><a href="https://freeflyeng.s3.us-west-2.amazonaws.com/_SoftwareReleases/AuterionMissionControl-amc-v1.37.25-freefly-astro-2.1.0-ubuntu.AppImage">Linux</a></p></td></tr><tr><td>Freefly Updater App</td><td>3.1.2</td><td>Check the <a href="https://freefly.gitbook.io/pilot-pro-public/maintenance/software-and-firmware-updates#app-updates">"updates"</a> section in Updater app</td></tr><tr><td><strong>Payloads</strong></td><td></td><td></td></tr><tr><td>Freefly Payloads (LR1, A7R4, OGI, Wiris Pro)</td><td><a href="https://docs.freeflysystems.com/ecosystem/payloads/payload-maintenance/gimbal-firmware">See payloads page</a></td><td><a href="https://docs.freeflysystems.com/ecosystem/payloads/payload-maintenance/gimbal-firmware">Gimbal Firmware</a></td></tr></tbody></table>
 
 ***
 
