@@ -47,7 +47,7 @@ icon: rotate
     * **LR1 Laser Range Finder**
       * **New:** Laser range finder driver installed by default.
         * Blue units can use the LRF add-on without breaking compliance by allowing app installation.
-        * **Note:** Uninstall the previously installed `camera-distance-sensor` AOS app to avoid conflicts.
+        * **Note:** Uninstall the previously installed `camera-distance-sensor` AOS app to avoid conflicts. See [here](https://docs.freeflysystems.com/ecosystem/payloads/lr1-payload/expansion-modules/lr1-laser-range-finder-module#drone-firmware-v2.3) for instructions.
   * **Pilot Pro**
     * **New:** Added a setting to automatically reconnect to an RTK correction source at startup.
     * **Improvement:** Clearer RTK correction status UI.
@@ -111,8 +111,6 @@ icon: rotate
 <summary><strong>Alta X Gen2 v2.2.6</strong></summary>
 
 <a href="https://freeflyeng.s3.us-west-2.amazonaws.com/_SoftwareReleases/skynode-altaxgen2-v2.2.6-prod.auterionos" class="button primary">DOWNLOAD v2.2.6</a>
-
-
 
 * **Summary**: New Feature Release. Brings new Boson thermal presets, LR1 and A7R photography improvements, Gremsy VIO plug-and-play, RTK/NTRIP from Pilot Pro, and the rewritten Doodle channel scan.
 * **Release Date**: April 2026
