@@ -31,7 +31,7 @@ If the aircraft gives an error message, power cycle the aircraft and try again.
 5. Retry the Alta X Gen2 firmware update once the _FW Updater Fix_ has been applied.
 {% endhint %}
 
-After updating the aircraft, make sure that all apps in the Freefly Updater on Pilot Pro are [up to date](https://freefly.gitbook.io/pilot-pro-public/maintenance/software-and-firmware-updates).
+After updating the aircraft, make sure that all apps in the Freefly Updater on Pilot Pro are [up to date](https://docs.freeflysystems.com/ecosystem/controller/pilot-pro/maintenance/software-and-firmware-updates).
 
 ***
 
