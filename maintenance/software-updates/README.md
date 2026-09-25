@@ -55,9 +55,13 @@ icon: rotate
     * **New:** Save and load multiple NTRIP server profiles.
     * **New:** Tablet volume raises to 100% when armed and restores when disarmed. Configurable in **Tablet Settings**.
     * **Improvement:** Pilot Pro data interface now reports the active IO mapping configuration, verification status, parameter checksum, app version, and interface version.
-    * **Doodle Radio Firmware**
-      * **New:** [Update Doodle radio firmware](https://app.gitbook.com/s/WXREyAKYAeQJ4gfg2SPg/controller/pilot-pro/operating-handbook/radio-modules/doodle-labs-radio-module/doodle-firmware-update) to version 2.0 through the Pilot Pro app.
-      * **Improvement:** Doodle 2.0 includes bug fixes and improved resilience in heavy RF interference.
+    *   **Doodle Radio Firmware**
+
+        * **New:** [Update Doodle radio firmware](https://app.gitbook.com/s/WXREyAKYAeQJ4gfg2SPg/controller/pilot-pro/operating-handbook/radio-modules/doodle-labs-radio-module/doodle-firmware-update) to version 2.0 through the Pilot Pro app.
+
+        <div data-gb-custom-block data-tag="hint" data-style="warning" class="hint hint-warning"><p>Make sure to update the Drone to v2.3.7 before attempting to update the Doodle Radio Firmware.</p></div>
+
+        * **Improvement:** Doodle 2.0 includes bug fixes and improved resilience in heavy RF interference.
   * **Auterion Mission Control**
     * **Improvement:** Base AMC version updated to 1.37.
     * **New:** “Mission Capture Camera” option for multi-camera capture during missions.
